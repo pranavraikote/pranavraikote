@@ -14,4 +14,4 @@ Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more 
 
 [![pranavraikote github stats](https://github-readme-stats.vercel.app/api?username=pranavraikote&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-### Show some ❤️ by starring and contributing some of the repositories!
+### Show some ❤️ by starring and contributing to some of the repositories!
