@@ -8,8 +8,6 @@ Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more 
 <br>
 [![pranavraikote github stats](https://github-readme-stats.vercel.app/api?username=pranavraikote&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavraikote&label=Views&color=blue&style=plastic" alt="pranavraikote" /> </p>
-
 <!--
 **pranavraikote/pranavraikote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
