@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@pranavraikote)
+[![Medium](https://github.com/pranavraikote/pranavraikote/blob/master/medium.svg)](https://medium.com/@pranavraikote)
 <br>
 ![visitors](https://komarev.com/ghpvc/?username=pranavraikote)
 
