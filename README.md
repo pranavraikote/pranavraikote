@@ -4,7 +4,7 @@
 <br>
 ![visitors](https://komarev.com/ghpvc/?username=pranavraikote)
 
-Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more than 1-year extensive experience in Computer Vision, 2+ years in Machine Learning and 3+ years of Programming in various Programming Languages. Working on exciting things to make a difference to this world!
+Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more than 1-year experience in Computer Vision and the R&D workflows involved. A passionate learner and an enthusiastic individual who wants to build products and applications for the technology accelerated world. Looking forward to solving harder problems around me and bring in technology to everyone's doorstep. Experienced in building End-to-End Deep Learning applications and Proof of Concepts. Learning the art of building solutions! Very much interested in Image Processing & Computer Vision. Always open for collaborations and mentoring.
 
 
 - 🔭 Currently working at [Applied Singularity](https://www.wandb.com/)
