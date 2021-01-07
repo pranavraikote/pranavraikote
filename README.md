@@ -8,7 +8,7 @@ Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more 
 
 
 - 🔭 Currently working at [Applied Singularity](https://www.wandb.com/)
-- 🌱 Creating Tutorials on [Deep Learning](https://github.com/pranavraikote/Tensorflow-Tutorials), Basics of Data Science & Image Processing
+- 🌱 Creating Tutorials on [Deep Learning (Tensorflow)](https://github.com/pranavraikote/Tensorflow-Tutorials), Data Science, Image Processing, Computer Vision & NLP
 - 💬 Ask me about Deep Learning, Computer Vision, NLP, GANs, Autonomous Vehicales, Medical Image Processing
 - 👯 Looking forward to collaborate on Computer Vision & NLP Projects
 - ⚡ Areas of Interests: Photography, Cooking, Gardening
