@@ -7,7 +7,7 @@
 Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more than 1-year experience in Computer Vision and the R&D workflows involved. A passionate learner and an enthusiastic individual who wants to build products and applications for the technology accelerated world. Looking forward to solving harder problems around me and bring in technology to everyone's doorstep. Experienced in building End-to-End Deep Learning applications and Proof of Concepts. Learning the art of building solutions! Very much interested in Image Processing & Computer Vision. Always open for collaborations and mentoring.
 
 
-- 🔭 Currently working at [Applied Singularity](https://www.wandb.com/)
+- 🔭 Currently working at [Applied Singularity](https://appliedsingularity.com/)
 - 🌱 Creating Tutorials on [Deep Learning (Tensorflow)](https://github.com/pranavraikote/Tensorflow-Tutorials), Data Science, Image Processing, Computer Vision & NLP
 - 💬 Ask me about Deep Learning, Computer Vision, NLP, GANs, Autonomous Vehicales, Medical Image Processing
 - 👯 Looking forward to collaborate on Computer Vision & NLP Projects
