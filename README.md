@@ -13,7 +13,7 @@ Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more 
 - 👯 Looking forward to collaborate on Computer Vision & NLP Projects
 - ⚡ Areas of Interests: Photography, Cooking, Gardening
 - :necktie: Find my Portfolio [here](https://pranavraikote.github.io)
-- Find my Blog [here](https://pranavraikote.medium.com/)
+- :books: Find my Blog [here](https://pranavraikote.medium.com/)
 
 [![pranavraikote github stats](https://github-readme-stats.vercel.app/api?username=pranavraikote&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
