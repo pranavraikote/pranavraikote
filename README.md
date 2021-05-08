@@ -20,6 +20,6 @@ Graduate in Computer Science & Engineering from BMSIT&M, Bangalore. Having more 
 ### Check out my articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavraikote/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavraikote/0" alt="Recent Article 0">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavraikote/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavraikote/1" alt="Recent Article 1">   
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavraikote/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavraikote/1" alt="Recent Article 1">   
 
 ### Show some ❤️ by starring and contributing to some of the repositories!
