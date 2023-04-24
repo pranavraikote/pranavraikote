@@ -6,13 +6,14 @@
 ![visitors](https://komarev.com/ghpvc/?username=pranavraikote)
 -->
 
-I'm a graduate in Computer Science & Engineering from BMSIT&M, Bangalore. More than 2 years of R&D experience in building solutions using Deep Learning. Well versed in Natural Language Processing, Computer Vision and Time Series domains. Looking forward to solve hard problems, contribute to the upliftment of the society and create an impact with the help of technology. Always open for consulting, collaborations and mentoring.
+I'm a computer science and engineering graduate from BMSIT&M, Bangalore with over 3 years of R&D experience in building solutions using deep learning. My expertise includes natural language processing, computer vision, and time series domains. I've successfully built and deployed several deep learning models for image and text classification, sentiment analysis, time-series analysis, anomaly detection, non-intrusive load monitoring and also recommender systems. I've mentored several aspiring data scientists and have helped them build their skills in machine learning and deep learning.
+
+Recently, I have been working on Generative AI and allied fields like Prompt Engineering. When I'm not working on any projects, I enjoy hiking, painting and photography. I'm also an avid reader and enjoy keeping up with the latest developments in the field. I'm always looking for exciting new challenges, and I'm eager to connect with others who share my passion for using technology to make a positive impact on society.
 
 - 🔭 Currently working at [Plexflo](https://www.plexflo.com/)
 - 🌱 Creating Tutorials on [Deep Learning (Tensorflow)](https://github.com/pranavraikote/Tensorflow-Tutorials), Data Science, Image Processing, Computer Vision & NLP
-- 💬 Ask me about Deep Learning, Computer Vision, NLP, GANs, Autonomous Vehicles, Medical Image Processing
+- 💬 Ask me about Generative AI, Deep Learning, NLP, Computer Vision, Autonomous Vehicles, Medical Image Processing
 - 👯 Looking forward to collaborate on Computer Vision & NLP Projects
-- ⚡ Areas of Interests: Photography, Cooking, Gardening
 - :necktie: Find my Portfolio [here](http://pranavraikote.com)
 
 [![pranavraikote github stats](https://github-readme-stats.vercel.app/api?username=pranavraikote&show_icons=true&theme=default&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
